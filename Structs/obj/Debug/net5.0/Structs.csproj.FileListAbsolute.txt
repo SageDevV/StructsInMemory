@@ -1,0 +1,8 @@
+C:\Users\122589\source\repos\Structs\Structs\bin\Debug\net5.0\Structs.exe
+C:\Users\122589\source\repos\Structs\Structs\obj\Debug\net5.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\Structs\Structs\obj\Debug\net5.0\Structs.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\Structs\Structs\obj\Debug\net5.0\Structs.AssemblyInfo.cs
+C:\Users\122589\source\repos\Structs\Structs\obj\Debug\net5.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\Structs\Structs\obj\Debug\net5.0\Structs.dll
+C:\Users\122589\source\repos\Structs\Structs\obj\Debug\net5.0\ref\Structs.dll
+C:\Users\122589\source\repos\Structs\Structs\obj\Debug\net5.0\Structs.pdb
